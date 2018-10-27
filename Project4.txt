@@ -1,0 +1,261 @@
+Luis Pena
+162 Stony Creek Dr
+559119
+4.00
+90
+95
+99
+97
+86
+89
+97
+96
+95
+86Carla Pena
+177 Rainbow Ln
+852146
+3.2
+85
+76
+98
+75
+71
+88
+76
+98
+85
+90Jose Pena
+17 Outfitter Dr
+598742
+3.0
+89
+76
+77
+75
+69
+88
+82
+98
+77
+90Faye Valentine
+18 Space Ln
+641239
+2.0
+65
+78
+88
+69
+72
+68
+71
+89
+70
+60Spike Speigal
+132 Bebop Rd
+563214
+2.5
+75
+75
+75
+75
+72
+62
+81
+79
+65
+73Jet Black
+15 Midway Ln
+786512
+3.6
+89
+98
+82
+80
+79
+88
+92
+85
+85
+83Cloud Strife
+777 Mako Rd
+777777
+3.5
+77
+85
+98
+95
+89
+89
+92
+93
+87
+91Tifa Lockheart
+32 Heaven Dr
+963258
+2.9
+79
+82
+85
+75
+77
+88
+82
+79
+81
+80Aerith Gainsborough
+448 Holy Rd
+742358
+4.0
+100
+98
+99
+100
+92
+90
+93
+98
+97
+98Barret Wallace
+28 Avalanche Ln
+123645
+2.0
+60
+72
+75
+77
+62
+69
+62
+75
+80
+70Vincent Valentine
+666 Chaos Dr
+497505
+3.8
+98
+95
+92
+89
+92
+90
+91
+88
+86
+100Yuffie Katsaragi
+86 Wutai Dr
+379002
+1.9
+50
+66
+75
+69
+71
+68
+71
+62
+72
+73Alexa Flores
+111 Eagle Pass Ln
+497532
+3.2
+88
+76
+31
+75
+71
+82
+76
+91
+85
+89Chris Godwin
+1515 Bastrop Ln
+888632
+2.0
+60
+50
+65
+75
+71
+62
+61
+60
+47
+50Jimmy Saucedo
+1478 Hollow Rd
+110203
+1.2
+50
+47
+30
+60
+58
+42
+55
+59
+61
+63Antonio Rangel
+17 Rangel Rd
+999002
+3.0
+75
+76
+82
+78
+74
+60
+74
+69
+71
+69Tony Gaddis
+78 Computer Science Ln
+334556
+3.8
+85
+76
+98
+75
+71
+88
+76
+98
+85
+90Karleigh Ford
+15 Braunfels Rd
+778505
+3.6
+87
+71
+94
+79
+74
+81
+73
+94
+89
+92Yvette Lopez
+1620 Katy Rd
+220045
+3.5
+84
+79
+75
+75
+89
+84
+76
+86
+85
+83Steven Ledisma
+56 Montopolis Rd
+987651
+2.4
+60
+76
+81
+69
+68
+72
+74
+68
+68
+72
